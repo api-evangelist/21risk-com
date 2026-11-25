@@ -91,15 +91,15 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [21Risk Com Authentication](https://apis.io/security/21risk-com/21risk-com-authentication/)
-- [21Risk Com Domain Security](https://apis.io/security/21risk-com/21risk-com-domain-security/)
-- [21Risk Com Vulnerability Disclosure](https://apis.io/security/21risk-com/21risk-com-vulnerability-disclosure/)
+- [21RISK Authentication](https://apis.io/security/21risk-com/21risk-com-authentication/)
+- [21RISK Domain Security](https://apis.io/security/21risk-com/21risk-com-domain-security/)
+- [21RISK Vulnerability Disclosure](https://apis.io/security/21risk-com/21risk-com-vulnerability-disclosure/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [21Risk Com Plans Pricing](https://apis.io/plans/21risk-com/21risk-com-plans-pricing/)
+- [21RISK Plans Pricing](https://apis.io/plans/21risk-com/21risk-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -119,25 +119,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 53.0** — developing · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 39.4** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
 | Discoverability | 57.1 |
-| Contract quality | 39.8 |
-| Contract governance | 79.1 |
-| Operational transparency | 15.8 |
+| Contract quality | 11.9 |
+| Contract governance | 22.0 |
+| Operational transparency | 14.3 |
 | Developer ergonomics | 57.1 |
-| Access clarity | 63.7 |
+| Access clarity | 66.0 |
 
-**Agent readiness 37.6** — agent-ready
+**Agent readiness 35.3** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -146,7 +146,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Event Surface Described | — |
 | Agent Skills | — |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | served (partial credit) |
@@ -155,6 +155,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
 **Regulatory alignment 27.2** — Insurance
 
